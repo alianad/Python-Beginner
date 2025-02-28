@@ -1,11 +1,3 @@
-# --------------------- Project ------------------------------
-# Secret Auction
-# ------------------------------------------------------------
-
-# --------------------- Objectives ---------------------------
-# Working with dictionaries and nesting
-# ------------------------------------------------------------
-
 from art import logo
 
 def find_highest_bidder(bidding_dictionary):

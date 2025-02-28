@@ -1,11 +1,3 @@
-# --------------------- Project ------------------------------
-# The Calculator Project
-# ------------------------------------------------------------
-
-# --------------------- Objectives ---------------------------
-# Understanding function with outputs & multiple return values
-# ------------------------------------------------------------
-
 from art import logo
 
 def add(n1, n2):

@@ -1,12 +1,3 @@
-# --------------------------- Project --------------------------------
-# Hangman
-# --------------------------------------------------------------------
-
-# -------------------------- Objectives ------------------------------
-# Understanding for & while loops, if & else, lists, strings, range
-# --------------------------------------------------------------------
-
-
 import random
 from art import logo, stages
 from words import word_list
@@ -27,6 +18,7 @@ lives = 6
 game_over = False
 win_game = False
 correct_letters = []
+
 
 while not game_over:
 

@@ -1,11 +1,3 @@
-# --------------------- Project ------------------------------
-# Caesar Cypher
-# ------------------------------------------------------------
-
-# --------------------- Objectives ---------------------------
-# Function with inputs, arguments & parameters
-# ------------------------------------------------------------
-
 from art import logo
 
 def caesar(original_text, shift_amount, encode_or_decode):

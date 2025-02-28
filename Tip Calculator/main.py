@@ -1,11 +1,3 @@
-# --------------------- Project ------------------------------
-# Tip Calculator
-# ------------------------------------------------------------
-
-# --------------------- Objectives ---------------------------
-# Understanding data types and how to manipulate strings
-# ------------------------------------------------------------
-
 print("Welcome to the tip calculator !")
 
 bill = float(input("What was the total bill ? RM "))

@@ -1,8 +1,3 @@
-# --------------------- Project ------------------------------
-# Higher Lower Game
-# ------------------------------------------------------------
-
-
 from random import choice
 from art import logo, vs
 from game_data import data
