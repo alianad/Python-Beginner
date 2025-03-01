@@ -37,7 +37,7 @@ To compile and include `libft` in your projects:
 
 3. Run a script
    ```bash
-   python example_script.py
+   python main.py
 
 
 ## 📈 My Learning Goals
